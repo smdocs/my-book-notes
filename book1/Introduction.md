@@ -7,7 +7,7 @@ Although dinosaurs and Dark Matter may at first glance look completely unrelated
 
 Lisa speculates that during the Solar systems passage through the mid plane Milky Way, it encountered a disk of <b>dark matter</b> that dislodged the distant object.
 
-In this book, Lisa tries to connect the deep interactions between the Universe, the Milky Way, the Solar system that got us where we are and the context in which it developed.
+In this book, Lisa tries to connect the deep interactions between the Universe, the Milky Way, the Solar system that got us where we are and the context in which it developed. It builds upon the following lessons learnt;
 
 1. At the most fundamental level, the physics of elementary particles, the physics of the cosmos and the biology of life itself all connect in remarkable ways that requires more understanding.
 2. The second point re-iterates how recent scientific developments (within the last 50 years) have revolutionized our understanding of these fundamental cosmic connections.
