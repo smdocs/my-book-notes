@@ -20,7 +20,9 @@ In this book, Lisa tries to connect the deep interactions between the Universe, 
 The book covers the following topics in sections
 
 1. Dark Matter constitutes 85 percent of the matter in the universe, yet we are pre-occupied the relevance of ordinary visible matter which to be fair interacts far more strongly. Lisa will explain dark matter's critical role in the formation of the universe.
+
 2. Life's formation as well as its destruction and covers the five major mass extinctions including that of the dinosaurs.
+
 3. The final section integrates ideas from the first two and builds models of dark matter and how and what it affects.
 
 At this point, we only know that dark matter and ordinary matter interact via gravity. But what if dark matter experiences non-gravitational interactions too? if true, dark matter could lead to dramatic evidence of connections between elementary matter and macroscopic phenomena.
