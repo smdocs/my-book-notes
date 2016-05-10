@@ -9,5 +9,6 @@ and in principle its components interact a link between the two can be establish
 > No one knows why an object (possibly a comet) 10 Kms wide plummted into the earth from its stable orbit to end the reign of the dinosaurs and three-qurters of
 other species in the planet. 
 
-Lisa proposes that during the Solar systems passage through the mid plane Milky Way, it encountered a disk of <b>dark matter</b> that dislodged 
-the distant object.
+Lisa speculates that during the Solar systems passage through the mid plane Milky Way, it encountered a disk of <b>dark matter</b> that dislodged the distant object.
+
+In this book, Lisa tries to connect the deep interactions between the Universe, the Milky Way, the Solar system that got us where we are and the context in which it developed.
