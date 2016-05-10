@@ -1,6 +1,6 @@
 # Contents
 
-1. [Introduction](book1/Introduction.md)
+1. [Introduction](Introduction.md)
 
 2. Part 1 - Development of the Universe
     1. The Clandestine Dark Matter Society
