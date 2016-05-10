@@ -12,7 +12,7 @@ Lisa speculates that during the Solar systems passage through the mid plane Milk
 
 In this book, Lisa tries to connect the deep interactions between the Universe, the Milky Way, the Solar system that got us where we are and the context in which it developed.
 
-1. At the most fundemental level, the phyysics of elementary particles, the physics of the cosmos and the biology of life itself all connect in remarkable ways that requires more understanding.
+1. At the most fundamental level, the phyysics of elementary particles, the physics of the cosmos and the biology of life itself all connect in remarkable ways that requires more understanding.
 2. The second point re-iterates how recent scientific developments ( within the last 50 years) have revolutionized our understanding of these fundamental cosmic connections.
 3. The third major lesson centers on the rate of change. Natural selection works well when species have time to adapt and evolve but is not suited for radical changes or catastrophic events such as the object that hit the earth and wiped out the dinosaurs.
 4. The fourth lesson is the remarkable science describing thhe often hidden elements in our world both biological and physical.
