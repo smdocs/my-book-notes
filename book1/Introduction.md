@@ -17,3 +17,14 @@ In this book, Lisa tries to connect the deep interactions between the Universe, 
 2. The second point re-iterates how recent scientific developments ( within the last 50 years) have revolutionized our understanding of these fundamental cosmic connections.
 3. The third major lesson centers on the rate of change. Natural selection works well when species have time to adapt and evolve but is not suited for radical changes or catastrophic events such as the object that hit the earth and wiped out the dinosaurs.
 4. The fourth lesson is the remarkable science describing thhe often hidden elements in our world both biological and physical.
+
+The book covers the following topics in sections
+
+1. Dark Matter constitutes 85 persent of the matter in the universe, yet we are pre-occupied the relevance of ordinary visible matter which to be fair interacts far more strongly. Lisa will explain dark matter's critical role in the formation of the universe.
+2. Life's formation as well as its destruction and covers the five major mass extinctions including that of the dinosaurs.
+3. The final section integrates ideas from the first two and builds models of dark matter and how and what it affects.
+
+
+
+
+
