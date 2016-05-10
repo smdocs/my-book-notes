@@ -21,3 +21,6 @@ The book covers the following topics in sections
 3. The final section integrates ideas from the first two and builds models of dark matter and how and what it affects.
 
 At this point, we only know that dark matter and ordinary matter interact via gravity. But what if dark matter experiences non-gravitational interactions too? if true, dark matter could lead to dramatic evidence of connections between elementary matter and macroscopic phenomena.
+
+#### My Notes
+
