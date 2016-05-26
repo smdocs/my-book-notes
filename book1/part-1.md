@@ -29,3 +29,7 @@ Gravitational lensing is used in many ways
  1. Find a distant object which cannot see otherwise.
  2. Calculate the mass of objects, galaxy clusters.
  
+### The Big Questions
+
+ 2. Why is there something rather than nothing? 
+  Lisa answers this question by justifying our existance and also stating something is more special that nothing.
