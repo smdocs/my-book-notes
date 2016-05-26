@@ -14,3 +14,8 @@
 - One big mystrey about dark energy is its existance and nobody knows why? although quantum mechanics and gravity predicts its existence.
 
 Dark matter might account for some peculiarities of our Solar systems and may even have had a part to play in the development of life on Earth.
+
+### Gravitational Lensing
+Gravitational lensing works in an analogous way and is an effect of Einstein's theory of general relativity – simply put, mass bends light. The gravitational field of a massive object will extend far into space, and cause light rays passing close to that object (and thus through its gravitational field) to be bent and refocused somewhere else. The more massive the object, the stronger its gravitational field and hence the greater the bending of light rays - just like using denser materials to make optical lenses results in a greater amount of refraction.
+
+![](http://www.roe.ac.uk/~heymans/website_images/Gravitational-lensing-galaxyApril12_2010-1024x768.jpg)
