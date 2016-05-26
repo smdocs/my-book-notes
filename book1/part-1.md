@@ -11,3 +11,4 @@
 - Is energy that is distibuted uniformly accross the universe, it exists even when there are no particles or matter around.
 - Unlike dark matter, dark energy is does not clump and can be no denser in one region than another. Dark matter though collects into objects
 - Dark energy remains constant over time and can referred as a <b>cosmological constant</b>.
+- One big mystrey about dark energy is its existance and nobody knows why? although quantum mechanics and gravity predicts its existence.
