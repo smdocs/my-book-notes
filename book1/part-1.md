@@ -32,4 +32,6 @@ Gravitational lensing is used in many ways
 ### The Big Questions
 
  2. Why is there something rather than nothing? 
-  Lisa answers this question by justifying our existance and also stating something is more special that nothing.
+   Lisa answers this question by justifying our existance and also stating something is more special that nothing. Also one needs the physical laws to explain a very nonrandom occurrence, therefore a cause implies that trhere must be something.
+
+3. Why is there so much energy in ordinary matter and how did it exist so long?
