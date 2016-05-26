@@ -17,6 +17,9 @@
 
 Dark matter might account for some peculiarities of our Solar systems and may even have had a part to play in the development of life on Earth.
 
+#####Energy distribution in the universe
+![](http://hubblesite.org/hubble_discoveries/dark_energy/graphics/darkenergy_what_is_piechart.jpg)
+
 ### The Discovery of Dark Matter
 
 ##### Gravitational Lensing
