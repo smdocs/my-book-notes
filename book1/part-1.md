@@ -1,4 +1,4 @@
-# The Development of the Universe
+# Development of the Universe
 
 ###The Clandestine Dark Matter Society
 
@@ -12,10 +12,10 @@
 
 
 ##### 2. Dark Energy
-- Is energy that is distibuted uniformly accross the universe, it exists even when there are no particles or matter around.
+- Is energy that is distributed uniformly across the universe, it exists even when there are no particles or matter around.
 - Unlike dark matter, dark energy is does not clump and can be no denser in one region than another.
 - Dark energy remains constant over time and can referred as a <b>cosmological constant</b>.
-- One big mystery about dark energy is its existance and nobody knows why? although quantum mechanics and gravity predicts its existence.
+- One big mystery about dark energy is its existence and nobody knows why?  Although quantum mechanics and gravity predicts its existence.
 
 
 #####Energy distribution in the universe
@@ -36,6 +36,6 @@ Gravitational lensing is used in many ways
 ### The Big Questions
 
  2. Why is there something rather than nothing? 
-   Lisa answers this question by justifying our existance and also stating something is more special that nothing. Also one needs the physical laws to explain a very nonrandom occurrence, therefore a cause implies that trhere must be something.
+   Lisa answers this question by justifying our existence and also stating something is more special that nothing. Also one needs the physical laws to explain a very nonrandom occurrence; therefore a cause implies that there must be something.
 
 3. Why is there so much energy in ordinary matter and how did it exist so long?
