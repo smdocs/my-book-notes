@@ -8,6 +8,8 @@
  - When large amounts of dark matter aggregate its net gravitational influence on our universe, galaxies is significant. it plays
   a pivotal role in the structure of the universe.
  - Dark matter can be simply be matter that has different or no fundamental charges. Hence it does not absorb light or react with any of the known particles of today.
+ - Dark matter might account for some peculiarities of our Solar systems and may even have had a part to play in the development of life on Earth.
+
 
 ##### 2. Dark Energy
 - Is energy that is distibuted uniformly accross the universe, it exists even when there are no particles or matter around.
@@ -15,7 +17,6 @@
 - Dark energy remains constant over time and can referred as a <b>cosmological constant</b>.
 - One big mystery about dark energy is its existance and nobody knows why? although quantum mechanics and gravity predicts its existence.
 
-Dark matter might account for some peculiarities of our Solar systems and may even have had a part to play in the development of life on Earth.
 
 #####Energy distribution in the universe
 ![](http://hubblesite.org/hubble_discoveries/dark_energy/graphics/darkenergy_what_is_piechart.jpg)
