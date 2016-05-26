@@ -18,4 +18,9 @@ Dark matter might account for some peculiarities of our Solar systems and may ev
 ### Gravitational Lensing
 Gravitational lensing works in an analogous way and is an effect of Einstein's theory of general relativity – simply put, mass bends light. The gravitational field of a massive object will extend far into space, and cause light rays passing close to that object (and thus through its gravitational field) to be bent and refocused somewhere else. The more massive the object, the stronger its gravitational field and hence the greater the bending of light rays - just like using denser materials to make optical lenses results in a greater amount of refraction.
 
+Gravitational lensing is used in many ways
+
+ 1. Find a distant object which cannot see otherwise.
+ 2. Calculate the mass of objects, galaxy clusters.
+ 
 ![](http://astron.berkeley.edu/~jcohn/deflect_lens.gif)
