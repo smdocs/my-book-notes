@@ -20,4 +20,9 @@ This chapter introduces <b>systems performance</b>, describing roles,activities,
 7. Proof-of-Concept testing in the target environment.
 8. Monitoring and running production software.
 9. Performance analysis of issues.
+
+#### 1.4 Perspectives
+Performance roles can be viewed from two different perspectives
+  1. Workload analysis
+  2. Resource analysis
  
