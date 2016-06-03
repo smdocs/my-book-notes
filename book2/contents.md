@@ -5,7 +5,7 @@
 
 ### Contents
 
-1. [Introduction](Introduction.md)
+1. [Introduction](introduction.md)
 
 2. Methodology
 
