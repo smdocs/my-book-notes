@@ -39,3 +39,7 @@ Gravitational lensing is used in many ways
    Lisa answers this question by justifying our existence and also stating something is more special that nothing. Also one needs the physical laws to explain a very nonrandom occurrence; therefore a cause implies that there must be something.
 
 3. Why is there so much energy in ordinary matter and how did it exist so long?
+
+### Almost The Very Beginning
+
+![](http://astronomer.wpengine.netdna-cdn.com/wp-content/uploads/2012/11/Balloon-Analogy.jpeg)
