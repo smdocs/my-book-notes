@@ -42,4 +42,9 @@ Gravitational lensing is used in many ways
 
 ### Almost The Very Beginning
 
+What do we know about the Big Bang Theory?
+
+1. We don't know how the universe started but we do know a more about its behaviour after 10-36 seconds from its inception.
+2. The lynchpin of the theory is the Universe's expansion. It is that space is expanding meaning that the distance between two objects like galaxies is expanding over time.
+
 ![](http://astronomer.wpengine.netdna-cdn.com/wp-content/uploads/2012/11/Balloon-Analogy.jpeg)
