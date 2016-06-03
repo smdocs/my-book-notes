@@ -58,7 +58,10 @@ Gravitational lensing is used in many ways
  - As the universe expands, matter and radiation dilute but radiation redshifts to lower energy.
  - As the universe cooled, massive particles combined with antiparticles and was destroyed releasing energy that heated up remaining lighter particles.
  - A few mins after the Big Bang, the temperature drop resulted in particles become bound into nuclei and held together by strong nuclear forces. At the same time matter interactions that initially kept the protons and neutrons the same were no longer effective. Neutrons could still decay into protons through weak nuclear force their relative size changes and gave rise to the formation of Helium, Deuterium and Lithium nuclei. This process is known as <b>nucleosynthesis</b>
- - 380,000 years after the Big Bang, the universe had cooled down such that positively charged particles could combine with negatively charged particles to form neutral atoms. <b>Potons</b> the particles that communicate the force of electromagnetism, could now travel through the universe unhindered in the absense of charged particles to deflect them.
+ - 380,000 years after the Big Bang, the universe had cooled down such that positively charged particles could combine with negatively charged particles to form neutral atoms. <b>Photons</b> the particles that communicate the force of electromagnetism, could now travel through the universe unhindered in the absense of charged particles to deflect them.
  - Background radiation that we see today, is the radiation that existed 380,000 years into the universe's evolution.
+ - The universe is enormous because it grew exponentially over a relatively small period of time.
+ - The universe is uniform because the enormous expansion during inflation soothed out thhe wrinkles in the space time fabric.
+ - The flatness of the universe explains its inflation however the how this inflation occurred, its underlying physical model is unknown.
 
 
