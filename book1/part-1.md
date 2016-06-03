@@ -64,4 +64,4 @@ Gravitational lensing is used in many ways
  - The universe is uniform because the enormous expansion during inflation soothed out thhe wrinkles in the space time fabric.
  - The flatness of the universe explains its inflation however the how this inflation occurred, its underlying physical model is unknown.
 
-
+##### A Galaxy is Born
