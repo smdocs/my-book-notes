@@ -54,13 +54,21 @@ Gravitational lensing is used in many ways
 #####Predictions of the Big Bang Evolution
 ![](https://upload.wikimedia.org/wikipedia/commons/d/db/History_of_the_Universe.svg)
  - Universe orginated 13.8 billion years ago as a hot dense fireball consisting of many interacting particles with temperature higher than a trillion trillion degrees. At this temperature, all known and unknown particles zipped around at close to the speed of light constantly interacting, annihilating and being created from energy in accordance with Einstein's theory.
+ 
  - Only fundamental particles not atoms existed during the early stages of the universe.
+ 
  - As the universe expands, matter and radiation dilute but radiation redshifts to lower energy.
+ - 
  - As the universe cooled, massive particles combined with antiparticles and was destroyed releasing energy that heated up remaining lighter particles.
+  
  - A few mins after the Big Bang, the temperature drop resulted in particles become bound into nuclei and held together by strong nuclear forces. At the same time matter interactions that initially kept the protons and neutrons the same were no longer effective. Neutrons could still decay into protons through weak nuclear force their relative size changes and gave rise to the formation of Helium, Deuterium and Lithium nuclei. This process is known as <b>nucleosynthesis</b>
+ 
  - 380,000 years after the Big Bang, the universe had cooled down such that positively charged particles could combine with negatively charged particles to form neutral atoms. <b>Photons</b> the particles that communicate the force of electromagnetism, could now travel through the universe unhindered in the absense of charged particles to deflect them.
+  
  - Background radiation that we see today, is the radiation that existed 380,000 years into the universe's evolution.
+ 
  - The universe is enormous because it grew exponentially over a relatively small period of time.
+ 
  - The universe is uniform because the enormous expansion during inflation soothed out thhe wrinkles in the space time fabric.
  - The flatness of the universe explains its inflation however the how this inflation occurred, its underlying physical model is unknown.
 
