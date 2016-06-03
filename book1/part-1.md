@@ -52,6 +52,10 @@ Gravitational lensing is used in many ways
 5. Hubble's constant is the rate at which the universe currently expands which is 72 km/sec/Mpc (meaning something at the distance of a megaparsec moves away at 72km/sec)
 
 #####Predictions of the Big Bang Evolution
+![](https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg)
  - Universe orginated 13.8 billion years ago as a hot dense fireball consisting of many interacting particles with temperature higher than a trillion trillion degrees. At this temperature, all known and unknown particles zipped around at close to the speed of light constantly interacting, annihilating and being created from energy in accordance with Einstein's theory.
+ - Only fundamental particles not atoms existed during the early stages of the universe.
+ - As the universe expands, matter and radiation dilute but radiation redshifts to lower energy.
+ - As the universe cooled
 
 
