@@ -51,4 +51,7 @@ What do we know about the Big Bang Theory?
 4. In 1929 Edwin Hubble discovered that the universe was indeed expanding and that the introduction of the new form of energy by Einstien was indeed real. Later on this was known as <b>dark energy</b>.
 5. Hubble's constant is the rate at which the universe currently expands which is 72 km/sec/Mpc (meaning something at the distance of a megaparsec moves away at 72km/sec)
 
+- Predictions of the Big Bang Evolution
+ - Universe orginated 13.8 billion years ago as a hot dense fireball consisting of many interacting particles with temperature higher than a trillion trillion degrees. At this temperature, all known and unknown particles zipped around at close to the speed of light constantly interacting, annihilating and being created from energy in accordance with Einstein's theory.
+
 
