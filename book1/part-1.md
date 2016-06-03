@@ -46,7 +46,8 @@ What do we know about the Big Bang Theory?
 
 1. We don't know how the universe started but we do know a lot more about its behaviour after 10-36 seconds from its inception.
 2. The lynchpin of the theory is the Universe's expansion. It is that space is expanding meaning that the distance between two objects like galaxies is expanding over time.
+![](http://astronomer.wpengine.netdna-cdn.com/wp-content/uploads/2012/11/Balloon-Analogy.jpeg)
 3. Einstien derived the expansion of the universe from his equations of relativity and introduction a new energy that could thwart the predicted expansion.
 4. In 1929 Edwin Hubble discovered that the universe was indeed expanding and that the introduction of the new form of energy by Einstien was indeed real. Later on this was known as <b>dark energy</b>.
 
-![](http://astronomer.wpengine.netdna-cdn.com/wp-content/uploads/2012/11/Balloon-Analogy.jpeg)
+
