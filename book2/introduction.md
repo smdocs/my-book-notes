@@ -27,4 +27,7 @@ This chapter introduces <b>systems performance</b>, describing roles,activities,
 Performance roles can be viewed from two different perspectives
   1. Workload analysis
   2. Resource analysis
+
+#### 1.5 Performance
+Performance is a challenging field since it can be subjective and complex due to interactions between multiple systems, hardware and groups of people having different expectations and expertise.
  
