@@ -61,4 +61,13 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
   - a. Discuss the planned split with other department heads.
   - b. Coordinate your team’s split with other teams to ensure a smoother transition.
   - c. Use joint announcements for all departments to help explain all of the changes simultaneously.
+
+- Organizational structure can either hinder or help a team’s ability to produce and support scalable applications.
+- Team size and team structure are the two key attributes with regard to organizations.
+- Teams that are too small do not provide enough capacity to accomplish the priorities of the business.
+- Teams that are too large can cause a loss of productivity and degrade morale.
+- The two traditional organizational structures are functional and matrix.
+- Functional organizational structures provide benefits such as commonality of management and peers, simplicity of responsibilities, ease of task assignment, and greater adherence to standards.
+- Matrix organizational structures provide benefits such as project ownership and improved cross-team communication.
+- Agile Organization structures, especially those aligned to services and architecture, provide increased innovation as measured by faster time to market, higher-quality functionality, and higher availability of services.
     
