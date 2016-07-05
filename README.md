@@ -8,3 +8,4 @@ Notes on books that I have read
 5. [The Art of Scalability - Second Edition](book5/contents.md)
 6. [The 7 Habits of Highly Effective People](book6/Notes.md)
 7. [The Book on Writing](book7/Notes.md)
+8. [The Charisma Myth](book8/Notes.md)
