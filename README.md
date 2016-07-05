@@ -10,3 +10,4 @@ Notes on books that I have read
 7. [The Book on Writing](book7/Notes.md)
 8. [The Charisma Myth -  How Anyone Can Master the Art and Science of Personal Magnetism?](book8/Notes.md)
 9. [Writing Tools: 50 Essential Strategies for Every Writer](book9/Notes.md)
+10. [Java concurrency in Practice](book10/Notes.md)
