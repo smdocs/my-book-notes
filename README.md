@@ -7,3 +7,4 @@ Notes on books that I have read
 4. [Concurrency]()
 5. [The Art of Scalability - Second Edition](book5/contents.md)
 6. [The 7 Habits of Highly Effective People](book6/Notes.md)
+7. [The Book on Writing](book7/Notes.md)
