@@ -2,7 +2,7 @@
 
 > Fighting with a large army under your command is nowise different from fighting with a small one; it is merely a question of instituting signs and signals.—Sun Tzu
 
-####1.1 The Impact of People and Leadership on Scalability
+####### <a name="part1-1">1.1 The Impact of People and Leadership on Scalability
 > Providing role clarity is the responsibility of leaders and managers.
 
   - People are the most important piece of the scale puzzle.
