@@ -6,4 +6,4 @@ Notes on books that I have read
 3. [Flash Boys: A Wall Street Revolt - Michael Lewis](book3/contents.md)
 4. [Concurrency]()
 5. [The Art of Scalability - Second Edition](book5/contents.md)
-6. [he 7 Habits of Highly Effective People](book6/Notes.md)
+6. [The 7 Habits of Highly Effective People](book6/Notes.md)
