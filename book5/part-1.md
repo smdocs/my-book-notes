@@ -2,7 +2,7 @@
 
 > Fighting with a large army under your command is nowise different from fighting with a small one; it is merely a question of instituting signs and signals.—Sun Tzu
 
-1.1 The Impact of People and Leadership on Scalability
+####1.1 The Impact of People and Leadership on Scalability
   - People are the most important piece of the scale puzzle.
   - The right person in the right job at the right time and with the right behaviors is essential to scale organizations, 
     processes, and systems.
@@ -12,3 +12,16 @@
     - The ease with which additional units of work can be added to the organization. 
     - How easily can you add or remove people to/from this organization? 
     - Do you need to add them in groups, or can you add individual people?
+    
+####1.2 Roles for the Scalable Organization
+
+A Tool for defining responsibilities, the tool we use most often is called RASCI. It is a responsibility assignment chart, and the acronym stands for Responsible, Accountable, Supportive, Consulted, and Informed.
+
+- R: Responsible. This is the person responsible for completing the project or initiative.
+- A: Accountable. This is the person to whom R is accountable and who must approve the work before it is okay to complete. When using RASCI as a decision-making tool, the A is sometimes referred to as the approver of any key decision.
+- S: Supportive. These people provide resources to complete the project or initiative.
+- C: Consulted. These people have data or information that can be useful in completing the project.
+- I: Informed. These people should be notified, but do not need to be consulted or provide input to the project.    
+
+![](https://www.safaribooksonline.com/library/view/the-art-of/9780134031408/graphics/02tab01.jpg) 
+    
