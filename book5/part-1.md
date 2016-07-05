@@ -38,4 +38,27 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 #### 1.3 Designing Organizations
 
 > Management of many is the same as management of few. It is a matter of organization. -- Sun Tze
+
+#####Optimal team size checklist:
+1. Determine the experience level of your managers.
+2. Calculate each engineer’s tenure at the company.
+3. Look up or ask each engineer how long he or she has been in the industry.
+4. Estimate the total effort for managerial responsibilities.
+  - Survey your managers to determine how much time they spend on tasks.
+  - Make a list of the core managerial responsibilities that you expect managers to accomplish.
+5. Look for signs of disgruntled business partners and managers who are bored to indicate teams that are too small.
+6. Look for losses in productivity, poor communication, and degrading morale to indicate teams that are too large.
+
+##### Splitting a team checklist:
+1. Determine how to separate the code base:
+  - a. Split by services.
+  - b. Divide base classes and services as evenly as possible with only one owner.
+  - c. Set up alerts in your repository to ensure everyone knows when items are being modified.
+2. Determine who will be the new manager.
+  - a. Consider internal versus external candidates.
+  - b. Set an aggressive timeline for making the decision and stick to it.
+3. Analyze your team’s interactions with other teams or departments.
+  - a. Discuss the planned split with other department heads.
+  - b. Coordinate your team’s split with other teams to ensure a smoother transition.
+  - c. Use joint announcements for all departments to help explain all of the changes simultaneously.
     
