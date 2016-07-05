@@ -70,4 +70,6 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - Functional organizational structures provide benefits such as commonality of management and peers, simplicity of responsibilities, ease of task assignment, and greater adherence to standards.
 - Matrix organizational structures provide benefits such as project ownership and improved cross-team communication.
 - Agile Organization structures, especially those aligned to services and architecture, provide increased innovation as measured by faster time to market, higher-quality functionality, and higher availability of services.
-    
+
+####<a name="part1-4">1.4 Leadership 101
+> A leader, leads by example not by force
