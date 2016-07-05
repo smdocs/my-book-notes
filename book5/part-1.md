@@ -33,4 +33,8 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - The CEO is the chief scalability officer of the company.
 - The CTO/CIO is the chief technical scale officer of the company.
 - RASCI is a tool that can help eliminate overlaps in responsibility and create clear role definition.
+
+#### 1.3 Designing Organizations
+
+> Management of many is the same as management of few. It is a matter of organization. -- Sun Tze
     
