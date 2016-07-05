@@ -2,7 +2,7 @@
 
 > Fighting with a large army under your command is nowise different from fighting with a small one; it is merely a question of instituting signs and signals.—Sun Tzu
 
-####### <a name="part1-1">1.1 The Impact of People and Leadership on Scalability
+###### <a name="part1-1">1.1 The Impact of People and Leadership on Scalability
 > Providing role clarity is the responsibility of leaders and managers.
 
   - People are the most important piece of the scale puzzle.
@@ -15,7 +15,7 @@
     - How easily can you add or remove people to/from this organization? 
     - Do you need to add them in groups, or can you add individual people?
     
-####1.2 Roles for the Scalable Organization
+####<a name="part1-2">1.2 Roles for the Scalable Organization
 > Role clarity is critical for scale initiatives to be successful.
 
 A Tool for defining responsibilities, the tool we use most often is called RASCI. It is a responsibility assignment chart, and the acronym stands for Responsible, Accountable, Supportive, Consulted, and Informed.
@@ -35,7 +35,7 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - The CTO/CIO is the chief technical scale officer of the company.
 - RASCI is a tool that can help eliminate overlaps in responsibility and create clear role definition.
 
-#### 1.3 Designing Organizations
+####<a name="part1-3">1.3 Designing Organizations
 
 > Management of many is the same as management of few. It is a matter of organization. -- Sun Tze
 
