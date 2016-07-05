@@ -27,8 +27,6 @@ A Tool for defining responsibilities, the tool we use most often is called RASCI
 
 RASCI can be used in a matrix, where each activity or initiative is spelled out along the y-axis (vertical axis) of the matrix and the individual contributors or organizations are spelled out on the x-axis of the matrix. The intersection of the activity (y-axis) and the organization (x-axis) contains one of the letters R, A, S, C, or I, but may include nothing if that individual or organization is not part of the initiative. <b> Ideally, in any case, there will be a single R and a single A for any given initiative.</b> This elimibates the possiblity of multiple individuals acquiring responsiblities for the same initiative.
 
-![](https://www.safaribooksonline.com/library/view/the-art-of/9780134031408/graphics/02tab01.jpg) 
-
 - Role clarity is critical for scale initiatives to be successful.
 - Overlapping responsibility creates wasted effort and value-destroying conflicts.
 - Areas lacking responsibility create vacuums of activity and failed scale initiatives.
