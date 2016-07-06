@@ -8,7 +8,7 @@
 
 2. [Part 1 - Development of the Universe](part-1.md)
     1. [The Clandestine Dark Matter Society](part-1.md)
-    2. The Discovery of Dark Matter
+    2. [The Discovery of Dark Matter](part-1.md/#part2)
     3. The Big Questions
     4. Almost the very Beginning: A very good place to start
     5. A Galaxy is Born
