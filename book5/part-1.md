@@ -1,4 +1,4 @@
-#Part 1 - Staffing a Scalable Organization
+#[Part 1 - Staffing a Scalable Organization](contents.md)
 
 > Fighting with a large army under your command is nowise different from fighting with a small one; it is merely a question of instituting signs and signals.—Sun Tzu
 
