@@ -74,5 +74,7 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 ####<a name="part1-4">1.4 Leadership 101
 > A leader, leads by example not by force
 
-- Leadership as “influencing the behavior of an organization or a person to accomplish a specific objective.
+- Leadership can defined as influencing the behavior of an organization or a person to accomplish a specific objective.
+- A leader's vision that inspires an organization “pulls” that organization toward the goal or objective
+- Conceptually, leadership can be thought as a function with parameters. When provided input values, the leadership function returns a score that’s indicative of a person’s ability to effect change and influence behaviors. 
 
