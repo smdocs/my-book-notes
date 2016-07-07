@@ -12,6 +12,7 @@ Notes on books that I have read
 9. [Writing Tools: 50 Essential Strategies for Every Writer](book9/Notes.md)
 10. [Java concurrency in Practice](book10/Notes.md)
 11. [Docker in Action](book11/Notes.md)
+12. [Leader's Checklist](book12/Notes.md)
 
 
 [Notes](https://github.com/mgp/book-notes)
