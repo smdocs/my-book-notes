@@ -1,4 +1,7 @@
 #Docker in Action
+By by Jeff Nickoloff
+
+
 > Docker is a tool that helps solve common problems like installing, removing, upgrading, distributing, trusting, and managing software.
 
 #### Part 1 - Keeping a Tidy Computer
