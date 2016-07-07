@@ -7,6 +7,6 @@
   
   1.3 [Designing Organizations](part-1.md#part1-3)
   
-  1.4 [Leadership 101](part-1.md#part1-3)
+  1.4 [Leadership 101](part-1.md#part1-4)
   
   
