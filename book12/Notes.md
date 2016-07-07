@@ -28,22 +28,22 @@ The Leader’s Checklist is meant to serve as a trigger to leadership action. In
 2. Think and Act Strategically. 
   - Do we have a realistic plan both for creating short-term results and for mapping out the future?
   - Have we considered all the players and anticipated every roadblock?
-  - Has everybody embraced—and can everybody explain—the firm’s competitive strategy and value drivers?                            3. 
+  - Has everybody embraced—and can everybody explain—the firm’s competitive strategy and value drivers? 
 
 3. Honor the Room.
-- Do those in the room know that you respect and value their talents and efforts? 
-- Have you made it clear that their upward guidance is always sought? 
-- Is there a sense of engagement on the front lines, and do they see themselves as “us,” not “them”?                            
+  - Do those in the room know that you respect and value their talents and efforts? 
+  - Have you made it clear that their upward guidance is always sought? 
+  - Is there a sense of engagement on the front lines, and do they see themselves as “us,” not “them”?                            
 
 4. Take Charge. 
-- Are you prepared to take charge even when you are not in charge?
-- If so, do you come with the capacity and position to embrace responsibility?
-- For the technical decisions ahead, are you ready to delegate but not abdicate?                            
+  - Are you prepared to take charge even when you are not in charge?
+  - If so, do you come with the capacity and position to embrace responsibility?
+  - For the technical decisions ahead, are you ready to delegate but not abdicate?                            
 
 5. Act Decisively.
-- Are most of your decisions both good and timely?
-- Do you convey your strategic intent and then let others reach their own decisions?
-- Is your own decision threshold close to a “70-percent” go point? 
+  - Are most of your decisions both good and timely?
+  - Do you convey your strategic intent and then let others reach their own decisions?
+  - Is your own decision threshold close to a “70-percent” go point? 
 
 6. Communicate Persuasively.                    
   - Are the messages about vision, strategy, and character crystal-clear and indelible? 
