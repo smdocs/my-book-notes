@@ -1,4 +1,4 @@
-#Docker in Action
+#[Docker in Action](https://www.manning.com/books/docker-in-action)
 By Jeff Nickoloff
 
 
