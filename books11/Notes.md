@@ -1,5 +1,6 @@
-#[Docker in Action](https://www.manning.com/books/docker-in-action)
-By Jeff Nickoloff
+#[Docker in Action](https://www.manning.com/books/docker-in-action) 
+<span style="color:red; font-family:Georgia; font-size:3em;">By Jeff Nickoloff.</span>
+
 
 
 > Docker is a tool that helps solve common problems like installing, removing, upgrading, distributing, trusting, and managing software.
