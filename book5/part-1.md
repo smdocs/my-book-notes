@@ -79,7 +79,7 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - Conceptually, leadership can be thought as a function with parameters. When provided input values, the leadership function returns a score that’s indicative of a person’s ability to effect change and influence behaviors. 
 - The point of describing leadership as an equation is to drive home the message that although you may not be able to change some things, you can definitely work on many other things to become a better leader.
 - Some parameters of leadership have to do with what you can create through either innovation or perseverance while other parameters of leadership relate to how you are perceived by others.
-- Charecteristics of a Leader
+- Characteristics of a Leader
   - Leading from the front.” Act and behave ethically and do not take advantage of your position of authority. Behave exactly as you expect your organization to behave.
   - Checking Your Ego at the Door
   - Mission First, People Always - great leaders and managers do so by creating a culture and environment in which people feel appreciated and respected and wherein performance-related feedback is honest and timely.
