@@ -77,4 +77,5 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - Leadership can defined as influencing the behavior of an organization or a person to accomplish a specific objective.
 - A leader's vision that inspires an organization “pulls” that organization toward the goal or objective
 - Conceptually, leadership can be thought as a function with parameters. When provided input values, the leadership function returns a score that’s indicative of a person’s ability to effect change and influence behaviors. 
+- The point of describing leadership as an equation is to drive home the message that although you may not be able to change some things, you can definitely work on many other things to become a better leader.
 
