@@ -1,10 +1,9 @@
 #[Docker in Action](https://www.manning.com/books/docker-in-action) 
 <span style="color:red; font-family:Georgia; font-size:3em;">By Jeff Nickoloff.</span>
 
-
-
 > Docker is a tool that helps solve common problems like installing, removing, upgrading, distributing, trusting, and managing software.
 
+![](http://zeroturnaround.com/wp-content/uploads/2016/03/Docker-cheat-sheet-by-RebelLabs.png)
 #### Part 1 - Keeping a Tidy Computer
  
  - Programs running inside Docker containers interface directly with the host’s Linux kernel. Because there’s no additional layer between the program running inside the container and the computer’s operating system, no resources are wasted by running redundant software or simulating virtual hardware.
