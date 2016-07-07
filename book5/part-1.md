@@ -84,4 +84,5 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
   - Checking Your Ego at the Door
   - Mission First, People Always - great leaders and managers do so by creating a culture and environment in which people feel appreciated and respected and wherein performance-related feedback is honest and timely.
   - Making Timely, Sound, and Morally Correct Decisions - What you allow, you teach, and what you teach becomes your standard.
+  - Empowering Teams and Scalability - Empowerment is the distribution of certain actions, accountability, and ownership. The leadership aspects of empowerment come from the boost that individuals, teams, leaders, and managers get out of the feeling and associated pride of ownership.
 
