@@ -73,3 +73,6 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 
 ####<a name="part1-4">1.4 Leadership 101
 > A leader, leads by example not by force
+
+- Leadership as “influencing the behavior of an organization or a person to accomplish a specific objective.
+
