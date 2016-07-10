@@ -9,4 +9,6 @@
   
   1.4 [Leadership 101](part-1.md#part1-4)
   
+  1.5 [Management 101](part-1.md#part1-5)
+  
   
