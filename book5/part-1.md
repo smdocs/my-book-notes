@@ -106,3 +106,4 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
     - The causal roadmap to success will help you frame your vision, mission, and goals, and will help employees understand how they contribute to those goals and aid in the creation of shareholder value.
 
 #### 1.5 <a name="part1-5">Management 101
+> Management is the judicious and ethical use of means to accomplish an end.
