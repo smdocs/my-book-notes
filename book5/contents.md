@@ -11,6 +11,6 @@
   
   1.5 [Management 101](part-1.md#part1-5)
   
-  1.6 [Relationships, Mindset, and the Business Case](part1.md#part1-6)
+  1.6 [Relationships, Mindset, and the Business Case](part-1.md#part1-6)
   
   
