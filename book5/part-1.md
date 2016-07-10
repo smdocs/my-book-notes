@@ -107,4 +107,5 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 
 #### 1.5 <a name="part1-5">Management 101
 > Management is the judicious and ethical use of means to accomplish an end.
+
 ![](https://www.safaribooksonline.com/library/view/the-art-of/9780134031408/graphics/05tab01.jpg)
