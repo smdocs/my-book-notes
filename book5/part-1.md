@@ -79,6 +79,7 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - Conceptually, leadership can be thought as a function with parameters. When provided input values, the leadership function returns a score that’s indicative of a person’s ability to effect change and influence behaviors. 
 - The point of describing leadership as an equation is to drive home the message that although you may not be able to change some things, you can definitely work on many other things to become a better leader.
 - Some parameters of leadership have to do with what you can create through either innovation or perseverance while other parameters of leadership relate to how you are perceived by others.
+
 - Characteristics of a Leader
   - Leading from the front.” Act and behave ethically and do not take advantage of your position of authority. Behave exactly as you expect your organization to behave.
   - Checking Your Ego at the Door
@@ -87,3 +88,19 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
   - Empowering Teams and Scalability - Empowerment is the distribution of certain actions, accountability, and ownership. The leadership aspects of empowerment come from the boost that individuals, teams, leaders, and managers get out of the feeling and associated pride of ownership.
     - When delegating and empowering teams, one should be clear as to what the team is empowered to do. The trick is to give the team or individual enough room to maneuver, learn, and create value, while still providing a safety net and opportunities to learn.
 
+ - Leadership is influencing the behavior of an organization or a person to accomplish a specific objective.
+ - Leaders, whether born or made, can get better; in fact, the pursuit of getting better should be a lifelong goal.
+ - Leadership can be viewed as a function consisting of personal characteristics, skills, experiences, actions, and approaches. Increasing any aspect increases your leadership “quotient.”
+ - The first step in getting better as a leader is to know where you stand. To do so, get a 360-degree review from your employees, your peers, and your manager.
+ - Lead as you would have people follow—abide by the culture you wish to create.
+ - There is no place for ego when leading teams—so check your ego at the door.
+ - Leadership should be a selfless endeavor.
+ - Mission First, People Always. Get the job done on time, but ensure you are doing it while taking care of your people.
+ - Always be morally straight. What you allow, you teach, and what you teach becomes your standard.
+ - Align everything you do with shareholder value. Don’t do things that don’t create shareholder value.
+ - Transformational leaders focus on the team overall, not on individuals. Don’t engage in leadership transactions with individuals (quid pro quo), but rather focus the team on collaboration and team outcomes.
+ - Vision is a vivid description of an ideal future. It includes the following components: Vivid description of an ideal future Important to shareholder value creation Measurable Inspirational Incorporate elements of your beliefs Mostly static, but modifiable as the need presents itself Easily remembered
+ - Mission is the general path or actions that will get you to your vision. It includes the following components: Descriptive of the present state and actions A sense of purpose Measurable General direction or path toward the vision
+ - Goals are the guideposts to your vision and are consistent with the path of your mission. 
+ - SMART goals are Specific Measurable Attainable (but aggressive) Realistic Timely (or contain a component of time)
+    - The causal roadmap to success will help you frame your vision, mission, and goals, and will help employees understand how they contribute to those goals and aid in the creation of shareholder value.
