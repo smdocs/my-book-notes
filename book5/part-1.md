@@ -123,4 +123,4 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - Goal trees are effective for mapping organizational goals to company goals and help create a “causal roadmap to success.”
 - Managers are responsible for paving the path to success. The most successful managers see themselves as critical parts of their teams working toward a common goal.
 
-1.6 <a name="part1-6"> Relationships, Mindset, and the Business Case
+1.6 ####<a name="part1-6"> Relationships, Mindset, and the Business Case
