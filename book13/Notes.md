@@ -1,7 +1,7 @@
 #Guesstimation 
 #####by Lawrence Weinstein and John Adam
 
-#### Why Estimate?
+####Why Estimate?
 We are continually bombarded by numbers, good, bad and bogus.
 - Our deficit is $1 trillion
 - Every American produces 100 cubic-feet of garbage a year
