@@ -14,6 +14,7 @@ Notes on books that I have read
 11. [Docker in Action](book11/Notes.md)
 12. [Leader's Checklist](book12/Notes.md)
 13. [Guesstimation](book13/Notes.md)
+14. [Effective C++](book14/Notes.md)
 
 
 [Notes](https://github.com/mgp/book-notes)
