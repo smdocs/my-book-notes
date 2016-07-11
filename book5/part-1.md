@@ -124,3 +124,6 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - Managers are responsible for paving the path to success. The most successful managers see themselves as critical parts of their teams working toward a common goal.
 
 #### 1.6 <a name="part1-6"> Relationships, Mindset, and the Business Case
+
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+
