@@ -13,6 +13,7 @@ Notes on books that I have read
 10. [Java concurrency in Practice](book10/Notes.md)
 11. [Docker in Action](book11/Notes.md)
 12. [Leader's Checklist](book12/Notes.md)
+13. [Guesstimation](book13/Notes.md)
 
 
 [Notes](https://github.com/mgp/book-notes)
