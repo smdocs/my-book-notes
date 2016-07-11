@@ -15,7 +15,7 @@ Notes on books that I have read
 12. [Leader's Checklist](book12/Notes.md)
 13. [Guesstimation](book13/Notes.md)
 14. [Effective C++](book14/Notes.md)
-15. [Thinking Fast and Slow](book15/contents.md)
+15. [Thinking Fast and Slow](book15/Notes.md)
 
 
 [Notes](https://github.com/mgp/book-notes)
