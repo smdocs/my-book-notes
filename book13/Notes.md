@@ -31,3 +31,11 @@ This ensures that your estimate will be within a factor of 10.
 ```
 #####2. If you can’t write down the answer, break the question
 into smaller pieces and go to step 1
+
+####Dealing with large numbers
+
+- Million = 1,000,000 = 106
+- Billion = 1,000,000,000 = 109
+- Trillion = 1,000,000,000,000 = 1012
+
+Counting zeroes gets tiresome,
