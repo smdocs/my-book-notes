@@ -125,5 +125,10 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 
 #### 1.6 <a name="part1-6"> Relationships, Mindset, and the Business Case
 
+- An experiential chasm separates technologists and other business leaders due to education and experiences that are missing from most nontechnology executives’ careers.
+- Technologists must take responsibility for crossing over into the business to bridge this chasm.
+- To garner support and to understand scaling, initiatives must be put in terms that the business leaders can understand.
+- Calculating the cost of outages and downtime can be an effective method of demonstrating the need for a business culture focused on scalability.
+
 
 
