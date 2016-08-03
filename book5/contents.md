@@ -13,7 +13,7 @@
   
   1.6 [Relationships, Mindset, and the Business Case](part-1.md#part1-6)
   
-  #### [Part 2 - Building Process for Scale](part-2.md)
+#### [Part 2 - Building Process for Scale](part-2.md)
      
   2.1 [Why Processes Are Critical to Scale](part-2.md#part2-1)
   
