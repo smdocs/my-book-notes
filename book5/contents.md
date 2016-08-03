@@ -14,7 +14,7 @@
   1.6 [Relationships, Mindset, and the Business Case](part-1.md#part1-6)
   
   #### [Part 2 - Building Process for Scale](part-2.md)
-    Joint Architecture Design and Architecture Review BoardChapter 14: Agile Architecture DesignChapter 15: Focus on Core Competencies: Build Versus BuyChapter 16: Determining RiskChapter 17: Performance and Stress TestingChapter 18: Barrier Conditions and RollbackChapter 19: Fast or Right?
+     
   2.1 [Why Processes Are Critical to Scale](part-2.md#part2-1)
   
   2.2 [Managing Crises and Escalations](part-2.md#part2-2)
@@ -28,4 +28,16 @@
   2.6 [Relationships, Mindset, and the Business Case](part-2.md#part2-6)
   
   2.7 [Joint Architecture Design and Architecture Review Board](part-2.md#part2-7)
+  
+  2.8 [Agile Architecture Design](part-2.md#part2-8)
+  
+  2.9 [Focus on Core Competencies Build vs Buy](part-2.md#part2-9)
+  
+  2.10 [Determining Risk](part-2.md#part2-10)
+  
+  2.11 [Performance and Stress Testing](part-2.md#part2-11)
+  
+  2.12 [Barrier Conditions and Rollback](part-2.md#part2-12)
+  
+  2.13 [Fast or Right?](part-2.md#part2-13)
   
