@@ -1,6 +1,6 @@
 #[Part 2 - Building Processes for Scale](contents.md)
 
-2.1 <a name="part2-1">2.1 Why Processes are critical for Scale?
+2.1 <a name="part2-1">Why Processes are critical for Scale?
 - Processes, such as application design or problem resolution, are a critical part of scaling an application.
 - Processes assist in management tasks and standardization, and free employees up to focus on more creative endeavors.
 - A multitude of process variations exist to choose from for almost any given process.
