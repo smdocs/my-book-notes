@@ -7,3 +7,8 @@
 2. Basic Commands and Directory Hierarchy
 3. Devices
 4. Disks and Filesystems
+5. How the Linux Kernel Boots
+6. How User Space Starts
+7. System Configuration: Logging, System Time, Batch Jobs, and Users
+8. A Closer Look at Processes and Resource Utilization
+9. Understanding your Network and its Configuration
