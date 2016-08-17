@@ -8,3 +8,6 @@
 4. Access to underlying devices
 5. Networking
 6. Provision of a system call API
+
+#### Single Directory Hierarchy, Directories, Links and Files
+![](http://snott.net/wp-content/uploads/2010/11/linux-dir-tree.jpg)
