@@ -16,6 +16,7 @@ Notes on books that I have read
 13. [Guesstimation](book13/Notes.md)
 14. [Effective C++](book14/Notes.md)
 15. [Thinking Fast and Slow](book15/Notes.md)
+16. [Self Service Linux](book16/Contents.md)
 
 
 [Notes](https://github.com/mgp/book-notes)
