@@ -29,5 +29,14 @@ Basic information that is needed to investigate any problem are
       - <b>Any evidence that may be relevant.</b> This includes error logs from an pplication that you were using, the system log (/var/log/messages), an error essage that was printed to the screen, and so on. You will want to protect ny evidence (that is, make sure the relevant files don’t get deleted until you solve the problem).
   
 2. Search for answers using the Internet or other resource.
+
 3. Begin deeper investigation.
+
+        1.Collect relevant information when the problem occurs.
+        2. Keep a log of what you’ve done and what you think the problem might be.
+        3. Be detailed and avoid qualitative information.
+        4. Challenge assumptions until they are proven.
+        5. Narrow the scope of the problem.
+        6. Work to prove or disprove theories about the problem.
+    
 3. Ask a subject matter expert for help.
