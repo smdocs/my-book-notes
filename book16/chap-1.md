@@ -33,6 +33,13 @@ Basic information that is needed to investigate any problem are
 3. Begin deeper investigation.
 
         1.Collect relevant information when the problem occurs.
+            1.1 The exact time the problem occurred
+            1.2 Dynamic operating system information
+            1.3 What you were doing when the problem occurred
+            1.4 A problem description
+            1.5 Anything that may have triggered the problem
+            1.6 Any evidence that may be relevant
+            
         2. Keep a log of what you’ve done and what you think the problem might be.
         3. Be detailed and avoid qualitative information.
         4. Challenge assumptions until they are proven.
