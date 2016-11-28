@@ -63,16 +63,16 @@ The main difference the two is that a trap is a crash initiated by the OS or the
 
   ![](images/self-service-linux-trap.jpg)
   
-The most important information to gather when the kernel experiences a major problem 
- 1. <b>The instruction that trapped.</b> The instruction can tell you a lot about the type of trap. If the instruction is invalid, it will generate a SIGILL. If the instruction references memory and the trap is a SIGSEGV, the trap is likely due to referencing memory that is outside of a memory region (/proc directory contains more information on process memory maps.)
- 
- 2. <b>The function name and offset of the instruction that trapped.</b> This can be obtained through GDB or using the load address of the shared library and the instruction address itself.
- 
- 3. <b> The Stack trace </b>
- 
- 4. <b> The register dump. </b> It can help us to understand the context under which the trap occured.
+  The most important information to gather when the kernel experiences a major problem 
+   1. <b>The instruction that trapped.</b> The instruction can tell you a lot about the type of trap. If the instruction is invalid, it will generate a SIGILL. If the instruction references memory and the trap is a SIGSEGV, the trap is likely due to referencing memory that is outside of a memory region (/proc directory contains more information on process memory maps.)
 
- 5. <b> A Core file or a memory dump. </b>
+   2. <b>The function name and offset of the instruction that trapped.</b> This can be obtained through GDB or using the load address of the shared library and the instruction address itself.
+
+   3. <b> The Stack trace </b>
+
+   4. <b> The register dump. </b> It can help us to understand the context under which the trap occured.
+
+   5. <b> A Core file or a memory dump. </b>
 
 Some applications use a special function called a “signal handler” to generate information about a trap that occurred.
 
