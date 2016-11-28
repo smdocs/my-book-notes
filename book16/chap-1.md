@@ -81,4 +81,5 @@ Some applications use a special function called a “signal handler” to genera
      ![](images/self-service-linux-hang.jpg)
      
 4. Performance
+
 5. Unexpected behavior/output
