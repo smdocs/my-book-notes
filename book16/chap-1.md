@@ -62,6 +62,9 @@ Problem investigations always start with a symptom. Symtoms can be a hint and ca
 The main difference the two is that a trap is a crash initiated by the OS or the hardware and a panic is an application shutting down due to severe error condition.
 
   ![](images/self-service-linux-trap.jpg)
+  
+The most important information to gather when the kernel experiences a major problem 
+ - <b>The instruction that trapped.</b> The instruction can tell you a lot about the type of trap. If the instruction is invalid, it will generate a SIGILL. If the instruction references memory and the trap is a SIGSEGV, the trap is likely due to referencing memory that is outside of a memory region (/proc directory contains more information on process memory maps.)
 
 3. Hang (or very slow performance)
 
