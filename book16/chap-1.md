@@ -51,8 +51,9 @@ Basic information that is needed to investigate any problem are
 ###Technical Investigation
 Problem investigations always start with a symptom. Symtoms can be a hint and can also be misleading. There are five categories of symptoms listed below, each of which has its own methods of investigation.
 
-  1. Error
-  2. Crash
-  3. Hang (or very slow performance)
-  4. Performance
-  5. Unexpected behavior/output
+1. Error
+![]()
+2. Crash
+3. Hang (or very slow performance)
+4. Performance
+5. Unexpected behavior/output
