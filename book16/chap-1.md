@@ -56,6 +56,11 @@ Problem investigations always start with a symptom. Symtoms can be a hint and ca
   ![](images/self-service-linux-error.jpg)
   
 2. Crash
+
+  ![](images/self-service-linux-trap.jpg)
+
 3. Hang (or very slow performance)
+
+     ![](images/self-service-linux-hang.jpg)
 4. Performance
 5. Unexpected behavior/output
