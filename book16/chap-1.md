@@ -55,7 +55,11 @@ Problem investigations always start with a symptom. Symtoms can be a hint and ca
 
   ![](images/self-service-linux-error.jpg)
   
-2. Crash
+2. Crash - occur because of severe conditions and fit into two main categories: traps and panics. 
+      - Trap usually occurs when an application references memory incorrectly, when a bad instruction is executed, or when there is a bad “page-in” (the process of bringing a page from the swap area into memory).
+      - Panic in an application is due to the application itself abruptly shutting down due to a severe error condition.
+
+The main difference the two is that a trap is a crash initiated by the OS or the hardware and a panic is an application shutting down due to severe error condition.
 
   ![](images/self-service-linux-trap.jpg)
 
