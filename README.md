@@ -18,6 +18,7 @@ Notes on books that I have read
 15. [Thinking Fast and Slow](book15/Notes.md)
 16. [Self Service Linux](book16/Contents.md)
 17. [Modern C - By Jens Gustedt](book-17/Contents.md)
+18. [Compiler Design - The Dragon Book](book18/Contents.md)
 
 
 [Notes](https://github.com/mgp/book-notes)
