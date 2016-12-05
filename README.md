@@ -17,6 +17,7 @@ Notes on books that I have read
 14. [Effective C++](book14/Notes.md)
 15. [Thinking Fast and Slow](book15/Notes.md)
 16. [Self Service Linux](book16/Contents.md)
+17. [Modern C - By Jens Gustedt](book-17/contents.md)
 
 
 [Notes](https://github.com/mgp/book-notes)
