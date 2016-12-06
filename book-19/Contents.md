@@ -5,3 +5,5 @@
 ###1. A Tour of Computer Systems
 ###2. Program Structure and Execution - Part 1
 ###3. Running Programs on a System
+
+[Lecture Slides](lecture-slides/Contents.md)
