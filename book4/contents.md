@@ -6,5 +6,5 @@
 ### Contents
 
 1. [Introduction](introduction.md)
-2. [Treads and Locks](part-1.md)
+2. [Threads and Locks](part-1.md)
 
