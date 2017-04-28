@@ -1,5 +1,5 @@
-#Guesstimation 
-#####by Lawrence Weinstein and John Adam
+# Guesstimation 
+>> by Lawrence Weinstein and John Adam
 
 ####Why Estimate?
 We are continually bombarded by numbers, good, bad and bogus.
