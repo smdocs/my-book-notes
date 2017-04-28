@@ -1,6 +1,6 @@
-#Best Practices and Initial Investigation
+# Best Practices and Initial Investigation
 
-###1. Linux Tools needed for investigation
+### 1. Linux Tools needed for investigation
   - strace
   - ltrace
   - gdb
