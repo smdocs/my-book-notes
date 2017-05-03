@@ -1,11 +1,16 @@
 # my-book-notes
 Notes on books that I have read
 
+### Astronomy and General Science
 1. [Dark Matter and the Dinosaurs: The Astounding Interconnectedness of the Universe](/book1/contents.md)
+### Devops
 2. [System Performance - Brendan Gregg](book2/contents.md)
+### Finance
 3. [Flash Boys: A Wall Street Revolt - Michael Lewis](book3/contents.md)
+### Computer Science
 4. [Concurrency](book4/contents.md)
 5. [The Art of Scalability - Second Edition](book5/contents.md)
+
 6. [The 7 Habits of Highly Effective People](book6/Notes.md)
 7. [The Book on Writing](book7/Notes.md)
 8. [The Charisma Myth -  How Anyone Can Master the Art and Science of Personal Magnetism?](book8/Notes.md)
