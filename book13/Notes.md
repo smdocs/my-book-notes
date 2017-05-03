@@ -34,8 +34,8 @@ into smaller pieces and go to step 1
 
 #### Dealing with large numbers
 
-- Million = 1,000,000 = 106
-- Billion = 1,000,000,000 = 109
-- Trillion = 1,000,000,000,000 = 1012
+- Million = 1,000,000 = 10^6
+- Billion = 1,000,000,000 = 10^9
+- Trillion = 1,000,000,000,000 = 10^12
 
 Counting zeroes gets tiresome,
