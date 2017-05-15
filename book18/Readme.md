@@ -2,4 +2,4 @@
 
 ![](http://lowlevelbits.org/img/bitcode-demystified/compilation_process.png)
 
-####1. Introduction
+#### 1. Introduction
