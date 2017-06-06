@@ -1,6 +1,6 @@
 # Part 1 - Development of the Universe
 
-###The Clandestine Dark Matter Society
+### The Clandestine Dark Matter Society
 
 ##### 1. Dark Matter
  - Dark matter is elusive and has only miniscule interactions with ordinary matter.
@@ -18,7 +18,7 @@
 - One big mystery about dark energy is its existence and nobody knows why?  Although quantum mechanics and gravity predicts its existence.
 
 
-#####Energy distribution in the universe
+##### Energy distribution in the universe
 ![](http://hubblesite.org/hubble_discoveries/dark_energy/graphics/darkenergy_what_is_piechart.jpg)
 
 ### The Discovery of Dark Matter
@@ -42,7 +42,7 @@ Gravitational lensing is used in many ways
 
 ### Almost The Very Beginning
 
-#####What do we know about the Big Bang Theory?
+##### What do we know about the Big Bang Theory?
 
 1. We don't know how the universe started but we do know a lot more about its behaviour after 10-36 seconds from its inception.
 2. The lynchpin of the theory is the Universe's expansion. It is that space is expanding meaning that the distance between two objects like galaxies is expanding over time.
@@ -51,7 +51,7 @@ Gravitational lensing is used in many ways
 4. In 1929 Edwin Hubble discovered that the universe was indeed expanding and that the introduction of the new form of energy by Einstien was indeed real. Later on this was known as <b>dark energy</b>.
 5. Hubble's constant is the rate at which the universe currently expands which is 72 km/sec/Mpc (meaning something at the distance of a megaparsec moves away at 72km/sec)
 
-#####Predictions of the Big Bang Evolution
+##### Predictions of the Big Bang Evolution
 ![](https://upload.wikimedia.org/wikipedia/commons/d/db/History_of_the_Universe.svg)
 
  - Universe orginated 13.8 billion years ago as a hot dense fireball consisting of many interacting particles with temperature higher than a trillion trillion degrees. At this temperature, all known and unknown particles zipped around at close to the speed of light constantly interacting, annihilating and being created from energy in accordance with Einstein's theory.
