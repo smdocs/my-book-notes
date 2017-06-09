@@ -1,4 +1,4 @@
-#[Part 1 - Staffing a Scalable Organization](contents.md)
+# [Part 1 - Staffing a Scalable Organization](contents.md)
 
 > Fighting with a large army under your command is no wise different from fighting with a small one; it is merely a question of instituting signs and signals.—Sun Tzu
 
@@ -35,11 +35,11 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - The CTO/CIO is the chief technical scale officer of the company.
 - RASCI is a tool that can help eliminate overlaps in responsibility and create clear role definition.
 
-####<a name="part1-3">1.3 Designing Organizations
+#### <a name="part1-3">1.3 Designing Organizations
 
 > Management of many is the same as management of few. It is a matter of organization. -- Sun Tze
 
-#####Optimal team size checklist:
+##### Optimal team size checklist:
 1. Determine the experience level of your managers.
 2. Calculate each engineer’s tenure at the company.
 3. Look up or ask each engineer how long he or she has been in the industry.
@@ -71,7 +71,7 @@ RASCI can be used in a matrix, where each activity or initiative is spelled out 
 - Matrix organizational structures provide benefits such as project ownership and improved cross-team communication.
 - Agile Organization structures, especially those aligned to services and architecture, provide increased innovation as measured by faster time to market, higher-quality functionality, and higher availability of services.
 
-####<a name="part1-4">1.4 Leadership 101
+#### <a name="part1-4">1.4 Leadership 101
 > A leader, leads by example not by force
 
 - Leadership can defined as influencing the behavior of an organization or a person to accomplish a specific objective.
