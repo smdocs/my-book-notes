@@ -15,7 +15,7 @@
     - How easily can you add or remove people to/from this organization? 
     - Do you need to add them in groups, or can you add individual people?
     
-####<a name="part1-2">1.2 Roles for the Scalable Organization
+#### <a name="part1-2">1.2 Roles for the Scalable Organization
 > Role clarity is critical for scale initiatives to be successful.
 
 A Tool for defining responsibilities, the tool we use most often is called RASCI. It is a responsibility assignment chart, and the acronym stands for Responsible, Accountable, Supportive, Consulted, and Informed.
