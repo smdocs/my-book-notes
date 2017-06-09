@@ -1,6 +1,7 @@
-#[Part 2 - Building Processes for Scale](contents.md)
+# [Part 2 - Building Processes for Scale](contents.md)
 
-####2.1 <a name="part2-1">Why Processes are critical for Scale?
+#### 2.1 <a name="part2-1">Why Processes are critical for Scale?
+
 ![](resources/CMMI-diagram.jpg)
 --
 ![](resources/CMMI-Description.jpg)
