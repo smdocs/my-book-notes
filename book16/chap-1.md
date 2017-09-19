@@ -14,7 +14,7 @@
   - tcpdump
   - readelf
   
-###2. The 4 Phases of Investigation
+### 2. The 4 Phases of Investigation
  
 Good investigation practices should balance the need to solve problems quickly,the need to build your skills, and the effective use of subject matter experts.
 
@@ -48,7 +48,7 @@ Basic information that is needed to investigate any problem are
     
 3. Ask a subject matter expert for help.
 
-###Technical Investigation
+### Technical Investigation
 Problem investigations always start with a symptom. Symtoms can be a hint and can also be misleading. There are five categories of symptoms listed below, each of which has its own methods of investigation.
 
 1. Error
