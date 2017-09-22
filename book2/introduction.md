@@ -6,7 +6,7 @@ This chapter introduces <b>systems performance</b>, describing roles,activities,
 Is the study of the whole system, including all hardware and software stack. Anything in the data path, software or hardware can affect performance. For distributed systems this means that multiple servers and applications needs to be included in the study.
 
 
-![](images/System Map.jpg)
+![](images/SystemMap.jpg)
 
 #### 1.2 Roles
 - Performance Engineer whose primary activity is systems performance are normally best suited to perform holistic stidy of the environment
