@@ -7,7 +7,7 @@
 
 1. [Introduction](introduction.md)
 
-2. Methodology
+2. Methodology(chap-2.md)
 
 
 [Linux Stack]: images/linux_observability_tools.png
