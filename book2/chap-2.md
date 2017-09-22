@@ -19,3 +19,5 @@ Before defining methods for performance tuning, here are some of the key terms f
 8. **Workload** the input load applied to a systm is the workload
 
 9. **Cache** a fast storage that can duplicate or buffer a limited amount of data in order to avoid communicating with a slower storage,
+
+[<<previous]() [>>next]()     
