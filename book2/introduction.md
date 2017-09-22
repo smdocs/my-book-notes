@@ -5,6 +5,7 @@ This chapter introduces <b>systems performance</b>, describing roles,activities,
 #### 1.1. System Performance
 Is the study of the whole system, including all hardware and software stack. Anything in the data path, software or hardware can affect performance. For distributed systems this means that multiple servers and applications needs to be included in the study.
 
+
 ![](images/System Map.jpg)
 
 #### 1.2 Roles
