@@ -20,4 +20,6 @@ Before defining methods for performance tuning, here are some of the key terms f
 
 9. **Cache** a fast storage that can duplicate or buffer a limited amount of data in order to avoid communicating with a slower storage,
 
-[<<previous]() [>>next]()     
+[<<previous]()                                                                                                  
+
+[>>next]()     
