@@ -1,4 +1,4 @@
-#Leaders Checklist
+# Leaders Checklist
 
 15 Mission-Critical Principles                              
 
