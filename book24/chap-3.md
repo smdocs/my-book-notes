@@ -15,14 +15,14 @@ tiny windows, popularly known as the "Black Hole".
 
 - It took 150 years and Einstien's theory of general relativity to resurruct the idea of such a dark object. In 1905, Einstien postulated the theory of [special relativity](https://en.wikipedia.org/wiki/Special_relativity) which concluded that nothing can travel faster than the speed of light. Its implications are;
 
-  - maximum sprred at which matter and any information can travel
+  - maximum speed at which matter and any information can travel
   - Establishes equivalence between Mass and Energy
   - It was his 1915's theory of [General Relativity](https://en.wikipedia.org/wiki/General_relativity) that transformed our understanding of Mass, Gravity and Space. This bought black holes in the fold.
   - Observational effects of this theory is small unless the objects studied have extreme gravity. It was only when neutron stars, pulsars, quasars were discovered its full explanatory power was relealed.
   
 ## Evidence
 
-Some of the most convincing edidence of the existance of black holes comes from the spiral galaxy, [NGC 4258](https://en.wikipedia.org/wiki/Messier_106).
+Some of the most convincing evidence of the existance of black holes comes from the spiral galaxy, [NGC 4258](https://en.wikipedia.org/wiki/Messier_106).
 
 
 
