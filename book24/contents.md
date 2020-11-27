@@ -2,4 +2,4 @@
 
 ## Contents
 
-[3. The Dark Center - Blackholes become real](chap3.md)
+[3. The Dark Center - Blackholes become real](chap-3.md)
