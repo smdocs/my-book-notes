@@ -23,9 +23,6 @@ tiny windows, popularly known as the "Black Hole".
 ## Evidence
 
 Some of the most convincing edidence of the existance of black holes comes from the spiral galaxy, [NGC 4258](https://en.wikipedia.org/wiki/Messier_106).
-![](https://en.wikipedia.org/wiki/Messier_106#/media/File:Messier_106_visible_and_infrared_composite.jpg)
 
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
+
+
