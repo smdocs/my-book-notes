@@ -18,4 +18,6 @@ tiny windows, popularly known as the "Black Hole".
   - maximum sprred at which matter and any information can travel
   - Establishes equivalence between Mass and Energy
   - It was his 1915's theory of [General Relativity](https://en.wikipedia.org/wiki/General_relativity) that transformed our understanding of Mass, Gravity and Space. This bought black holes in the fold.
-  - 
+  - Observational effects of this theory is small unless the objects studied have extreme gravity. It was only when neutron stars, pulsars, quasars were discovered its full explanatory power was relealed.
+  
+## Evidence
