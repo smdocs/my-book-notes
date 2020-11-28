@@ -23,6 +23,13 @@ tiny windows, popularly known as the "Black Hole".
 ## Evidence
 
 Some of the most convincing evidence of the existance of black holes comes from the spiral galaxy, [NGC 4258](https://en.wikipedia.org/wiki/Messier_106).
+## Properties
+
+- Space-time can be thought of as asheet on which masses produce divots that impact motions as well as the flow of time. 
+- General thoery also predicts [gravitional lensing](https://en.wikipedia.org/wiki/Gravitational_lens), as mass distorts space, tracking the distortation light bends. This theory has opened up investigations of further potential applications.
+- According to the theory of special relativity, moving clocks ticks more slowly than stationary clocks. This is due to the fact that gravitation curves space as well as the flow of time.
+  - GPS works by using this concept since clocks on satallites run slower by 40 microsecs per day. Hence a GPS receiver has to make this correction after it recieves signals from the satallite in order to compute its location to the accuracy of 1 meter.
+
 
 
 
