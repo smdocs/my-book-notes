@@ -33,3 +33,4 @@ Notes on books that I have read
 ### Biology and Physics
 1. [What is Life? - ERWIN SCHRODINGER](book-22/Main.md)
 [Notes](https://github.com/mgp/book-notes)
+2. [Some Assembly Required - Neil Shubin](book-23/Main.md)
