@@ -9,4 +9,6 @@
 - <b> What do proteins of diverse animals tell about their relationship? - Pauling and Zuckerkandl</b>
 Zukerkandl demonstrated that proteins might have a lot to say about the history of humankind. He compared hemoglobin, all animals
 use oxygen for their metabolism and this blood protein carries oxygen to all organs.
-- <b> How closely are humans related to other primates? - Alan Wilson
+- <b> How closely are humans related to other primates? - Alan Wilson</b>
+  Humans and chimps are related closely to each other than some differnt spieces of mouse. Humans and Chimps at the level of genes and proteins almost identical.
+- <b> If at the genetic and protien level, humans and chimps are almost identical then what is driving their differences?
